@@ -1,2 +1,2 @@
 # Electricity-Bill-Management System
-It is a desktop based application.
+A desktop based application using Java swing library and MySQL.
