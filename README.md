@@ -1,2 +1,2 @@
-# Electricity-Bill-Management System
+# Electricity Billing System
 A desktop based application using Java Swing library and MySQL.
